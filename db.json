@@ -1,10 +1,132 @@
 {
-    "user":[
+    "user": [
         {
             "id": 1,
             "email": "george.bluth@reqres.in",
             "name": "George",
-            "password":"111111"
+            "password": "111111"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "title": "iPhone 12",
+            "price": 109.95,
+            "description": "Trong những tháng cuối năm 2020, Apple đã chính thức giới thiệu đến người dùng cũng như iFan thế hệ iPhone 12 series mới với hàng loạt tính năng bứt phá, thiết kế được lột xác hoàn toàn, hiệu năng đầy mạnh mẽ và một trong số đó chính là iPhone 12 64GB.",
+            "category": "phone",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/213031/iphone-12-xanh-la-new-2-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 2,
+            "title": " Apple Watch SE 2022",
+            "price": 109.95,
+            "description": "Trong sự kiện Far Out 2022, nhà Táo Khuyết đã mang đến hàng loạt sản phẩm mới trong đó có đồng hồ thông minh Apple Watch SE 2022. Mẫu smartwatch giá rẻ mới nhất của Apple này hứa hẹn sẽ khiến cho các iFans đứng ngồi không yên khi sở hữu nhiều tính năng hấp dẫn.",
+            "category": "apple-watch",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/7077/289612/apple-watch-se-2022-thumbnew-1-1-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 3,
+            "title": "Xiaomi 12 5G ",
+            "price": 109.95,
+            "description": "Điện thoại Xiaomi đang dần khẳng định chỗ đứng của mình trong phân khúc flagship bằng việc ra mắt Xiaomi 12 với bộ thông số ấn tượng, máy có một thiết kế gọn gàng, hiệu năng mạnh mẽ, màn hình hiển thị chi tiết cùng khả năng chụp ảnh sắc nét nhờ trang bị ống kính đến từ Sony.",
+            "category": "phone",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/234621/Xiaomi-12-xam-thumb-mau-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 4,
+            "title": "Laptop Lenovo Ideapad Gaming 3",
+            "price": 109.95,
+            "description": "Một mẫu laptop gaming hot mang mức giá tầm trung và sở hữu những thông số đủ mạnh cho các anh em chiến thoải mái với những con game thịnh hành, phục vụ giải trí hay công việc đầy đủ. Laptop Lenovo Ideapad Gaming 3 15ACH6 R5 5500H (82K2027PVN) chắc chắn sẽ không khiến bạn thất vọng với giá trị bỏ ra.",
+            "category": "laptop",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/44/313667/lenovo-ideapad-gaming-3-15ach6-r5-82k2027pvn-thumb-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 5,
+            "title": "Tai nghe Bluetooth True Wireless Mozard Air 6 ",
+            "price": 109.95,
+            "description": "Kích thước tai nghe Mozard nhỏ nhắn từ housing đến hộp sạc đem lại sự tiện lợi cho việc di chuyển và bảo quản cả trong trường hợp đeo tai nghe trực tiếp trên tai hay vẫn để tai nghe còn nguyên trong hộp sạc, thiết kế không chiếm diện tích trong balo, túi xách, bạn có thể mang theo bên mình khi đi làm, đi học, phượt hay công tác đều rất dễ dàng.",
+            "category": "tai-nghe",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/54/245808/bluetooth-true-wireless-mozard-air-6-ava-1-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 6,
+            "title": "Xiaomi Redmi 13C",
+            "price": 109.95,
+            "description": "Trong bối cảnh thị trường điện thoại di động ngày càng cạnh tranh về giá, các nhà sản xuất luôn tìm kiếm những cách thức mới để thu hút người dùng. Xiaomi là một trong những nhà sản xuất hàng đầu thế giới trong lĩnh vực này, và Xiaomi Redmi 13C là một ví dụ điển hình cho thấy nỗ lực của họ trong việc mang đến những sản phẩm chất lượng với giá cả phải chăng.",
+            "category": "phone",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/316771/xiaomi-redmi-13c-xanh-la-1-2-3-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 7,
+            "title": "Điện thoại OPPO A38",
+            "price": 109.95,
+            "description": "OPPO A38 mẫu điện thoại tầm trung mới nhất được OPPO mang đến cho người tiêu dùng vào nửa cuối năm 2023. Máy sở hữu lối thiết kế quen thuộc của dòng điện thoại OPPO A, đồng thời có một hiệu năng ổn định cùng màn hình hiển thị sắc nét chắc chắn sẽ không làm bạn thất vọng.",
+            "category": "phone",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/313154/oppo-a38-gold-thumb-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 8,
+            "title": "Điện thoại OPPO Reno10 5G 128GB",
+            "price": 109.95,
+            "description": "Đến hẹn lại lên, hãng điện thoại OPPO tiếp tục cho ra mắt sản phẩm OPPO Reno10 5G 128GB tại thị trường Việt Nam trong năm 2023. Điện thoại mang trong mình lối thiết kế đẹp mắt, hiệu năng mượt mà xử lý tốt mọi tác vụ, đi cùng bộ ba camera mang đến những bức ảnh đẹp mắt.",
+            "category": "phone",
+            "image": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/2023/04/campaign/Frame-knockout-desktop-226x500.png",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 9,
+            "title": "Laptop Acer Gaming Nitro 5",
+            "price": 109.95,
+            "description": "Trải nghiệm giải trí đỉnh cao nhờ hiệu năng từ con chip Intel Core i7 dòng H series hiệu năng cao cùng ngoại hình độc đáo, laptop Acer Gaming Nitro 5 AN515 58 769J i7 12700H (NH.QFHSV.003) chắc chắn sẽ trở thành trợ thủ đắc lực cho người dùng trong những chiến trường ảo đầy kịch tính hay những tác vụ văn phòng và đồ hoạ chuyên nghiệp.",
+            "category": "laptop",
+            "image": "https://cdn.tgdd.vn/Products/Images/44/313332/acer-nitro-5-an515-58-769j-i7-nhqfhsv003-thumb-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 10,
+            "title": "Laptop Acer Gaming Nitro V",
+            "price": 109.95,
+            "description": "Sự quay trở lại với diện mạo mới, cá tính và thu hút hơn của dòng Gaming Nitro từ thương hiệu Acer nổi tiếng, laptop Acer Gaming Nitro V ANV15 51 57B2 i5 13420H (NH.QN8SV.001) với cấu hình đầy hấp dẫn đến từ con chip Intel Gen 13 dòng H, card rời RTX 40 series hứa hẹn sẽ cho bạn trải những trận game đầy xuất thần.",
+            "category": "laptop",
+            "image": "https://cdn.tgdd.vn/Products/Images/44/318354/acer-nitro-v-anv15-51-57b2-i5-nhqn8sv001-thumb-laptop-600x600.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
         }
     ]
 }
