@@ -128,5 +128,37 @@
                 "count": 120
             }
         }
+    ],
+    "URB-Api": [
+        {
+            "id": 1,
+            "name": "Short pants",
+            "thumbnail": "https://product.hstatic.net/1000026602/product/img_2193_4028f39c0054423c9b30ed31e399725c_large.jpg",
+            "featuredImage": "https://product.hstatic.net/1000026602/product/img_2193_4028f39c0054423c9b30ed31e399725c_large.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Shirt",
+            "thumbnail": "https://product.hstatic.net/1000026602/product/img_1571_3b6676262aff4b1488d841da5d97b000_large.jpg",
+            "featuredImage": "https://product.hstatic.net/1000026602/product/img_1571_3b6676262aff4b1488d841da5d97b000_large.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Long pants",
+            "thumbnail": "https://product.hstatic.net/1000026602/product/img_8385_ecceddf107fc401a81a6434309d6706e_large.jpg",
+            "featuredImage": "https://product.hstatic.net/1000026602/product/img_8385_ecceddf107fc401a81a6434309d6706e_large.jpg"
+        },
+        {
+            "id": 4,
+            "name": "White Shirt",
+            "thumbnail": "https://product.hstatic.net/1000026602/product/img_9385_81579f55b31d4f7fbd3964c4f99be59f_large.jpg",
+            "featuredImage": "https://product.hstatic.net/1000026602/product/img_9385_81579f55b31d4f7fbd3964c4f99be59f_large.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Jacket Shirt",
+            "thumbnail": "https://product.hstatic.net/1000026602/product/img_0777_bc1802d552764d3f866b80885d25f238_large.jpg",
+            "featuredImage": "https://product.hstatic.net/1000026602/product/img_0777_bc1802d552764d3f866b80885d25f238_large.jpg"
+        }
     ]
 }
