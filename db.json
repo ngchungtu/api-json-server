@@ -160,5 +160,37 @@
             "thumbnail": "https://product.hstatic.net/1000026602/product/img_0777_bc1802d552764d3f866b80885d25f238_large.jpg",
             "featuredImage": "https://product.hstatic.net/1000026602/product/img_0777_bc1802d552764d3f866b80885d25f238_large.jpg"
         }
+    ],
+    "book": [
+        {
+            "id": 1,
+            "name": "Hạ đỏ",
+            "author": "Nguyễn Nhật Ánh",
+            "price": 109.95
+        },
+        {
+            "id": 2,
+            "name": "Đi qua hoa cúc",
+            "author": "Nguyễn Nhật Ánh",
+            "price": 124.75
+        },
+        {
+            "id": 3,
+            "name": "Cô gái đến từ hôm qua",
+            "author": "Nguyễn Nhật Ánh",
+            "price": 119.64
+        },
+        {
+            "id": 4,
+            "name": "Chiến tranh và hòa bình",
+            "author": "Authori",
+            "price": 112.90
+        },
+        {
+            "id": 5,
+            "name": "Người phán xử",
+            "author": "Tác giả",
+            "price": 89.95
+        }
     ]
 }
