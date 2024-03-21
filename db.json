@@ -166,30 +166,35 @@
             "id": 1,
             "name": "Hạ đỏ",
             "author": "Nguyễn Nhật Ánh",
+            "imgUrl":"https://cdn.pixabay.com/photo/2015/07/27/20/16/book-863418_1280.jpg",
             "price": 109.95
         },
         {
             "id": 2,
             "name": "Đi qua hoa cúc",
             "author": "Nguyễn Nhật Ánh",
+            "imgUrl":"https://cdn.pixabay.com/photo/2014/08/16/18/17/book-419589_640.jpg",
             "price": 124.75
         },
         {
             "id": 3,
             "name": "Cô gái đến từ hôm qua",
             "author": "Nguyễn Nhật Ánh",
+            "imgUrl":"https://cdn.pixabay.com/photo/2016/05/28/07/05/book-1421097_640.jpg",
             "price": 119.64
         },
         {
             "id": 4,
             "name": "Chiến tranh và hòa bình",
             "author": "Authori",
+            "imgUrl":"https://cdn.pixabay.com/photo/2015/11/19/21/11/book-1052014_640.jpg",
             "price": 112.90
         },
         {
             "id": 5,
             "name": "Người phán xử",
             "author": "Tác giả",
+            "imgUrl":"https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010_640.jpg",
             "price": 89.95
         }
     ]
